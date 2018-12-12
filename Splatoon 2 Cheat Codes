@@ -1,0 +1,17 @@
+@little-endian
+@nsobid-401CAF85764DBBD081DBF293D9F2ADCB
+# Splatoon 2 4.3.0
+
+@flag offset_shift 0x100
+
+// ----------------------------------
+// - Splatoon 2 OctoSquiddy's Codes -
+// ----------------------------------
+
+// Infinity Ink [OctoSquiddy]
+@enabled
+0226F7E0 75622C20635370656369616C00537562
+0226F7EB 496E6B5F53617665202C4D61696E496E
+0226F800 6B5F53617665202C496E6B5265636F76
+
+Credit me (OctoSquiddy [NK]) if you use this/these hacks in any video.
