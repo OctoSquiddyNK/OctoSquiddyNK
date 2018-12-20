@@ -22,7 +22,7 @@
 @enabled
 0109E984 C0035FD6
 
-// Inf Ink [OctoSquiddy]
+// Inf Ink [OctoSquiddy] [crash, i need fix something]
 @disabled
 023406E6 75622C20635370656369616C00537562
 02340AE0 496E6B5F53617665202C4D61696E496E
